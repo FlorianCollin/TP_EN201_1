@@ -1,0 +1,49 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Fri Sep 15 10:03:40 2023
+[*]
+[dumpfile] "(null)"
+[savefile] "/Users/floriancollin/Documents/Code/VHDL/TP_EN201/save/init.gtkw"
+[timestart] 0
+[size] 1792 1120
+[pos] -1 -26
+*-28.094423 1030000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[treeopen] top_tb.uut.
+[sst_width] 246
+[signals_width] 305
+[sst_expanded] 1
+[sst_vpaned_height] 349
+@28
+top_tb.horloge
+[color] 2
+top_tb.raz
+[color] 2
+top_tb.button_center
+@24
+top_tb.uut.s_time[9:0]
+top_tb.uut.s_volume[3:0]
+@28
+[color] 3
+top_tb.uut.inst_gestion_f.ce_perception
+[color] 3
+top_tb.uut.inst_gestion_f.ce_affichage
+top_tb.uut.inst_fsm.forward
+top_tb.uut.inst_fsm.play_pause
+top_tb.uut.inst_fsm.restart
+@c00028
+top_tb.sept_segments[6:0]
+@28
+(0)top_tb.sept_segments[6:0]
+(1)top_tb.sept_segments[6:0]
+(2)top_tb.sept_segments[6:0]
+(3)top_tb.sept_segments[6:0]
+(4)top_tb.sept_segments[6:0]
+(5)top_tb.sept_segments[6:0]
+(6)top_tb.sept_segments[6:0]
+@1401200
+-group_end
+@22
+top_tb.an[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
